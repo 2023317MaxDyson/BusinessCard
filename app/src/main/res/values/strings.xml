@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Max Dyson</string>
+    <string name="title">Junior Android Developer</string>
+    <string name="phone_number"> + 11 (22) 032 007</string>
+    <string name="email">max.d@domail.com</string>
+</resources>
